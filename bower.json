@@ -4,10 +4,7 @@
     "axiskafi <axis.kafi@test.com>"
   ],
   "ignore": [
-    "**/.*",
-   
-    "test",
-    "tests"
+  
   ],
   "dependencies": {
     "bootstrap": "^3.3.6",
